@@ -1,0 +1,12 @@
+﻿{
+  "Name": "NWU Tech Trends Telemetry Portal User Acceptance Testing-39013219 - UiPath Studio C",
+  "Type": "App",
+  "Id": "Z0K48-8kKEGymMBR_1KFGA",
+  "Reference": "Jc5cl2h0lEaNCvZ5w7ikEw/Z0K48-8kKEGymMBR_1KFGA",
+  "Created": "2024-09-30T11:55:08.3732805Z",
+  "Updated": "2024-09-30T11:55:08.3732805Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
